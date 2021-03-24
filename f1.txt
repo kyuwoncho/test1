@@ -1,1 +1,3 @@
 this is first time to write the code
+
+add some kinds of codes
